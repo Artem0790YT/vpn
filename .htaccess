@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^vpn228$ https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt [L,R=302]
